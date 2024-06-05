@@ -7,3 +7,5 @@ I love cats and dogs
 ```
 
 I have two broder collies
+- [ ] check issues
+- [ ] do a pull request
